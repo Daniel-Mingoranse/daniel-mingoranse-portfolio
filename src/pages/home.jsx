@@ -49,10 +49,10 @@ const Home = () => {
                             </h1>
                             <p className="lead mb-5">Desenvolvedor web apaixonado pela área tecnológica, curioso e atencioso em aprender de tudo um pouco com a intenção de transformar ideias, em novas realidade, para melhor e assim profissionalizar minha carreira como um desenvolvedor de ponta.</p>
                             <div className="social-icons">
-                                <a className="social-icon" href="https://www.linkedin.com/in/daniel-mingoranse-94530b16a/">
+                                <a className="social-icon" href="https://www.linkedin.com/in/daniel-mingoranse-da-silva-94530b16a/">
                                     <i className="fab fa-linkedin-in"></i>
                                 </a>
-                                <a className="social-icon" href="https://github.com/Full-Daniel-Stack">
+                                <a className="social-icon" href="https://github.com/Daniel-Mingoranse">
                                     <i className="fab fa-github"></i>
                                 </a>
                             </div>
